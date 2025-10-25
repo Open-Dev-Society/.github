@@ -28,9 +28,10 @@ Thank you for your interest in contributing to Open Dev Society! We're building 
 
 ### 💻 Code Contributions
 
-**Who this is for:** Developers, programmers, software engineers
+**Who this is for:** Developers, programmers, software engineers, Innovators
 
 **What you can do:**
+- Contribute a project to Open Dev Society, read [Project Contribution Guidelines](#)
 - Fix bugs or implement new features in our projects
 - Review pull requests and provide feedback
 - Improve code quality, performance, or security
