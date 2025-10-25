@@ -156,7 +156,7 @@ See what we're building next on our [Public Roadmap](https://github.com/orgs/Ope
 
 ## 🤝 How to Contribute
 
-We welcome contributions of all kinds! Check out our [Contributing Guidelines](CONTRIBUTING.md) to learn how you can help—whether you code, write, teach, design, or organize events.
+We welcome contributions of all kinds! Check out our [Contributing Guidelines](./CONTRIBUTING.md) to learn how you can help—whether you code, write, teach, design, or organize events.
 
 **Not sure where to start?** Look for issues labeled `good first issue` or reach out at opendevsociety@cc.cc
 
