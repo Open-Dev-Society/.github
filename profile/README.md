@@ -9,13 +9,6 @@ Where newcomers are told they're not "good enough" to contribute.
 
 ---
 
-## 📋 Our Roadmap
-
-See what we're building next on our [Public Roadmap](https://github.com/orgs/Open-Dev-Society/projects/1)
-
-
----
-
 ## 🌍 Our Belief
 
 Technology should belong to everyone.  
@@ -157,21 +150,15 @@ Share feedback, spread the word, suggest ideas, or simply learn and grow with us
 
 ## 📋 Our Roadmap
 
-### ✅ **Current Projects**
-- OpenStock — Open-source stock market tracking platform
-- OpenReadme — GitHub profile README generator
-- BookTrace — Free book discovery platform
+See what we're building next on our [Public Roadmap](https://github.com/orgs/Open-Dev-Society/projects/1)
 
-### 🚧 **In Development**
-- Educational workshop series
-- Community podcast launch
-- Mentorship program framework
+---
 
-### 🔮 **Future Vision**
-- Annual open-source hackathon
-- Developer conferences
-- Global learning community
-- Open-source news platform
+## 🤝 How to Contribute
+
+We welcome contributions of all kinds! Check out our [Contributing Guidelines](CONTRIBUTING.md) to learn how you can help—whether you code, write, teach, design, or organize events.
+
+**Not sure where to start?** Look for issues labeled `good first issue` or reach out at opendevsociety@cc.cc
 
 ---
 
