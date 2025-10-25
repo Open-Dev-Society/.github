@@ -9,6 +9,13 @@ Where newcomers are told they're not "good enough" to contribute.
 
 ---
 
+## 📋 Our Roadmap
+
+See what we're building next on our [Public Roadmap](https://github.com/orgs/Open-Dev-Society/projects/1)
+
+
+---
+
 ## 🌍 Our Belief
 
 Technology should belong to everyone.  
