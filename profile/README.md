@@ -40,13 +40,31 @@ Instead, we will run on **transparency, donations, and the strength of our commu
 
 ---
 
+## 🤝 What Makes Us Different
+
+**Open Dev Society is a platform, not a gatekeeper.**
+
+When you contribute or donate a project to ODS:
+- **You always retain full credit** as the creator and owner
+- **Your work remains yours**—showcase it on your resume, portfolio, and LinkedIn
+- **You keep decision-making power** as the lead maintainer (unless you choose otherwise)
+- **We provide the ecosystem**—contributors, visibility, support, and community
+
+We don't claim ownership. We amplify impact.  
+We don't take credit. We help your ideas reach further.  
+We don't lock you in. We open doors for collaboration.
+
+**Your project. Your vision. Our community. Our support.**
+
+---
+
 ## 🚀 What We Build
 
 ODS is not a single project—**it's a society of open initiatives**:
 
 ### 🛠️ **OpenDev Tools**
 Simple, powerful utilities for everyday problems.  
-*Current Projects: [OpenStock](https://github.com/Open-Dev-Society/OpenStock), [OpenReadme](https://github.com/Open-Dev-Society/openreadme)*
+*Current Projects: [OpenStock](https://github.com/Open-Dev-Society/OpenStock), [OpenReadme](https://github.com/Open-Dev-Society/openreadme), [OpenCosmos](https://github.com/Open-Dev-Society/opencosmos)*
 
 ### 📚 **OpenDev Library**
 A global gateway to free books and resources.  
@@ -114,6 +132,7 @@ We are students, developers, educators, creators, and dreamers.
 We are **not here for profit**.  
 We are **here for impact**.
 
+**We are a platform that elevates creators, not an organization that claims ownership.**  
 **Founded by the community, built for the community.**  
 Because the future belongs to those who build it openly.
 
@@ -136,7 +155,7 @@ Help plan hackathons, coordinate meetups, organize conferences, or facilitate co
 ### 📣 **For Community Members**
 Share feedback, spread the word, suggest ideas, or simply learn and grow with us.
 
-**Ready to contribute?** Check out our [Contributing Guidelines](CONTRIBUTING.md) or reach out at **opendevsociety@cc.cc**
+**Ready to contribute?** Check out our [Contributing Guidelines](/CONTRIBUTING.md) or reach out at **opendevsociety@cc.cc**
 
 ---
 
@@ -144,7 +163,7 @@ Share feedback, spread the word, suggest ideas, or simply learn and grow with us
 
 - **GitHub**: [github.com/Open-Dev-Society](https://github.com/Open-Dev-Society)
 - **LinkedIn**: [linkedin.com/company/opendevsociety-in](https://www.linkedin.com/company/opendevsociety-in)
-- **Email**: opendevsociety@cc.cc
+- **Email**: [opendevsociety@cc.cc](mailto:opendevsociety@cc.cc)
 
 ---
 
@@ -158,7 +177,23 @@ See what we're building next on our [Public Roadmap](https://github.com/orgs/Ope
 
 We welcome contributions of all kinds! Check out our [Contributing Guidelines](/CONTRIBUTING.md) to learn how you can help—whether you code, write, teach, design, or organize events.
 
-**Not sure where to start?** Look for issues labeled `good first issue` or reach out at opendevsociety@cc.cc
+**Not sure where to start?** Look for issues labeled `good first issue` or reach out at [opendevsociety@cc.cc](mailto:opendevsociety@cc.cc)
+
+---
+
+## ❓ FAQ
+
+### Can I showcase projects under ODS as my own work?
+**Absolutely!** Projects you create or contribute to ODS remain yours. List them on your resume, portfolio, and LinkedIn—ODS exists to support your growth, not claim your achievements.
+
+### What happens to my project if I transfer it to ODS?
+You retain full credit as creator and can continue as lead maintainer. We provide community support, contributors, and visibility—you keep control over direction and decisions.
+
+### Do I lose ownership rights?
+No. ODS is a platform, not a company claiming IP. You always own your work and can showcase it as yours.
+
+### Can I leave or take my project back?
+Yes. If you ever want to move your project out of ODS, we'll support that decision. No lock-in, no penalties—just community support when you need it.
 
 ---
 
