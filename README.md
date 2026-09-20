@@ -8,4 +8,4 @@ Organization-level defaults for [Open Dev Society](https://github.com/Open-Dev-S
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Contribution guidelines for every ODS project |
 | [`MANIFESTO.md`](MANIFESTO.md) | What we believe and why ODS exists |
 
-Editing a file here changes it for every repository in the organization that does not define its own, so open a pull request rather than pushing to `main`.
+Changes to the profile README or default community-health files here affect the organization or repositories that do not define their own, so open a pull request rather than pushing to `main`.
