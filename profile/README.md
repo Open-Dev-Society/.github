@@ -2,7 +2,7 @@
 
 # Open Dev Society
 
-**Free, open-source tools and learning — built by students, developers, educators, and creators.**
+**Free, open-source tools and learning — built by founders, developers, educators, and creators.**
 
 Nothing behind a paywall, ever. You keep credit and ownership of everything you build here.
 
